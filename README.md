@@ -110,8 +110,15 @@ Default device is set as desktop, to update device type use any one option from 
 2. -DdeviceType=<typeOfDevice> in arguments from command line
 
 
-Report at Scenario level
-![Screenshot](https://github.com/bintu27/E-CommerceSite_Test_Java/blob/master/Screenshorts/Report.png)
+Report at Overview level
+![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%201.png)
 
-Report at Step level
-![Screenshot](https://github.com/bintu27/E-CommerceSite_Test_Java/blob/master/Screenshorts/Steps%20.png)
+Report at Status at each level
+![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%202.pngg)
+
+Report at tag level
+![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%203.pngg)
+
+Report at steps level
+![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%204.pngg)
+

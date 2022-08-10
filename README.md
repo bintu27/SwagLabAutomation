@@ -114,11 +114,11 @@ Report at Overview level
 ![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%201.png)
 
 Report at Status at each level
-![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%202.pngg)
+![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%202.png)
 
 Report at tag level
-![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%203.pngg)
+![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%203.png)
 
 Report at steps level
-![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%204.pngg)
+![Screenshot](https://github.com/bintu27/SwagLabAutomation/blob/master/test-output/Report%204.png)
 

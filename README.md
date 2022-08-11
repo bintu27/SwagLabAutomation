@@ -33,11 +33,11 @@ A) User should be able to log in with valid credentials only
 - Error Message for invalid credentials
 B) User should be able to place orders
 - Single order
-- With single item
-- With multiple item
+     - With single item
+     - With multiple item
 - Multiple order
-- With single item
-- With multiple item
+     - With single item
+     - With multiple item
 
 # How do I get set up? ##
 
